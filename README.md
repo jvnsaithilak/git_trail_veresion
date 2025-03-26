@@ -1,3 +1,3 @@
 This is my index page
 
-today i am learning git session
+Today i am learning git session
